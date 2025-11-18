@@ -1,0 +1,30 @@
+# Build artifacts
+bin/
+obj/
+# User-specific files
+*.user
+*.userosscache
+*.suo
+# VS cache
+.vs/
+# Logs
+*.log
+# NuGet
+*.nupkg
+**/packages/*
+# Publish outputs
+/publish/
+# Configuration
+appsettings.*.Local.json
+# Generated
+Generated/
+# Rider / VS Code
+.idea/
+.vscode/
+# Coverage
+coverage*/
+*.coverage
+# Secrets
+secrets.json
+# Temp
+   .temp/
